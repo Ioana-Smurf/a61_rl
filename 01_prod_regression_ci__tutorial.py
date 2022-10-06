@@ -1,4 +1,22 @@
-#!\
+#!/usr/bin/env python
+# coding: utf-8
+
+# # Tutoriel complet Regression lineaire
+# ## Utilisation de l'intégration continue
+
+# ## Collect data using pandas
+
+# In[59]:
+
+
+# modules nécessaires pour le notebook
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.linear_model import LinearRegression
+from sklearn import model_selection
+from sklearn import metrics
+ 
 
 
 # In[60]:
