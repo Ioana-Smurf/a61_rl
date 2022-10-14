@@ -1,4 +1,6 @@
 [core]
-    remote = mondata
+    remote = mondataremote
 ['remote "mondata"']
+    url = gdrive://1WnEJrq0cBXm_8mM05vgrABMRGylcEHcg
+['remote "mondataremote"']
     url = gdrive://1WnEJrq0cBXm_8mM05vgrABMRGylcEHcg
